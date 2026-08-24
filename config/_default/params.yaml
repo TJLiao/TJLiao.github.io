@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: dark
-  font: classic
+  theme_day: dauparas
+  theme_night: dauparas
+  font: minimal
   font_size: L
 
 # SEO
