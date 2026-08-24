@@ -2,18 +2,18 @@
 name = "Dauparas"
 
 [light]
-  # Primary — matches dauparas.github.io's theme-color (#006400 / darkgreen)
-  primary = "#006400"
+  # Primary — tab20 淺紫色
+  primary = "#c5b0d5"
 
   # Menu
-  menu_primary = "#006400"
-  menu_text = "#fff"
+  menu_primary = "#000000"
+  menu_text = "#ffffff"
   menu_text_active = "#ffffff"
-  menu_title = "#fff"
+  menu_title = "#ffffff"
 
-  # Links
-  link = "#006400"
-  link_hover = "#004d00"
+  # Links — tab20 淺綠 / 深綠
+  link = "#98df8a"
+  link_hover = "#2ca02c"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -21,13 +21,17 @@ name = "Dauparas"
 
 [dark]
   # Primary
-  primary = "#4caf50"
+  primary = "#c5b0d5"
 
   # Menu
-  menu_primary = "rgb(20, 22, 34)"
-  menu_text = "rgba(255,255,255,0.6)"
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "#fff"
+  menu_primary = "#000000"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+
+  # Links
+  link = "#98df8a"
+  link_hover = "#2ca02c"
 
   # Home sections
   home_section_odd = "hsla(231, 15%, 18%, 1)"
