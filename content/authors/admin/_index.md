@@ -33,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tjliao@nhri.edu.tw
+    link: "tjliao@nhri.edu.tw"
   - icon: github
     icon_pack: fab
     link: https://github.com/TJLiao
