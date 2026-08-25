@@ -2,8 +2,8 @@
 name = "Dauparas"
 
 [light]
-  # Primary — tab20 深灰色
-  primary = "#7f7f7f"
+  # Primary — 深綠色
+  primary = "#004d00"
 
   # Menu
   menu_primary = "#000000"
@@ -11,9 +11,9 @@ name = "Dauparas"
   menu_text_active = "#ffffff"
   menu_title = "#ffffff"
 
-  # Links — tab20 紫色 / 更深的紫色 (hover)
-  link = "#9467bd"
-  link_hover = "#684884"
+  # Links — 深紫色 / 黑色 (hover)
+  link = "#684884"
+  link_hover = "#000000"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -21,7 +21,7 @@ name = "Dauparas"
 
 [dark]
   # Primary
-  primary = "#7f7f7f"
+  primary = "#004d00"
 
   # Menu
   menu_primary = "#000000"
@@ -30,8 +30,8 @@ name = "Dauparas"
   menu_title = "#ffffff"
 
   # Links
-  link = "#9467bd"
-  link_hover = "#684884"
+  link = "#684884"
+  link_hover = "#000000"
 
   # Home sections
   home_section_odd = "hsla(231, 15%, 18%, 1)"
